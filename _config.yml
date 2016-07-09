@@ -1,0 +1,14 @@
+layout_spectrum: 0.7067506953608245
+typography_spectrum: 0.7040131497196853
+color:
+  brandStrength: 0.4949161990080029
+  lightness: 0.3049487378448248
+  saturation: 0.3287600378971547
+  rhythmicContrast: 0.4573994299862534
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: bradlau
